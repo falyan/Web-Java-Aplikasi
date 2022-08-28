@@ -111,7 +111,7 @@ sudo rm -r /home/username-kamu/.bash_logout
 ```
 
 
-
+Aplikasi kamu dapat diakses melalui browser dengan alamat http://ip_HOST_kamu:8089/calculator/
 
 
 
